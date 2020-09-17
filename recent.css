@@ -1,0 +1,40 @@
+
+
+
+
+body{
+    
+    background-image: url(recent2.jpg);
+  
+    
+}
+.heading{
+    color: cadetblue;
+    text-align: center;
+    font-size: 20px;
+}
+hr{
+    color: aqua;
+    background-color: aqua;
+}
+.intro{
+    color: aqua;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+.header{ position: absolute;
+    /*grid-template-columns: auto auto;*/
+    width: 65%;
+    height: 60%;
+    margin-left: 27%;
+    /*margin-right: 27%;*/
+    /*vertical-align: middle;*/
+    /*margin-top: 7%;*/
+    margin-top: 75px;
+    
+    /*border-style: solid;
+    border-color: aqua;*/
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}

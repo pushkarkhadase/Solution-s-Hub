@@ -1,0 +1,41 @@
+.header{
+    background-image: url(Contact.jpg);
+    background-size: cover;
+    height: 580px;
+}
+.container{
+    text-align: center;
+    padding-top: 100px;
+}
+.header-logo{
+    color: crimson;
+    font-size: 60px;
+    opacity: 0.7;
+    
+}
+.para{
+    color: brown;
+    font-size: 20px;
+    opacity: 0.7;
+    
+}
+.body{
+    background-color: #2E2E2D;
+    color: aliceblue;
+    text-align: center;
+    
+        
+    
+}
+label{
+    display: block;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+button{
+   background-color: black;
+  
+    
+}
